@@ -6,4 +6,4 @@
 
 ![TesjiPizzaría](https://user-images.githubusercontent.com/63415652/101246149-11d56b80-36d7-11eb-9dd9-254380596964.PNG)
 
-## Y los correspondientes consultas y comandos para pasar el diagrama lógico a una base de datos. 
+## Y los correspondientes consultas y comandos para pasar el diagrama lógico a una base de datos por medio de comandos SQL. 
